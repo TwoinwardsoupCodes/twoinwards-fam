@@ -1,4 +1,8 @@
-Privacy Policy:
-1. The bot does not store any data of any user.
-2. The bot runs does not have any database linked.
-3. The bot is free to use
+What the bot collects:
+1. Your publicy available username
+2. Words used during the word for usage analysis
+3. Wins 
+What the bot does not collect:
+1. Messages which are not related to the game
+2. Messages which are not a pokemon-name and said in between games.
+3. Your email id or any personal information
