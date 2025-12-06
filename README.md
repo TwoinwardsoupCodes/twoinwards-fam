@@ -1,2 +1,1 @@
-# twoinwards-fam
-Twoimwards Fam website
+Pokemon Atlas bot on discord
